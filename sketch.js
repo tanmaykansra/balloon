@@ -69,4 +69,4 @@ function readPosition(data){
 
 
 
-}
+
